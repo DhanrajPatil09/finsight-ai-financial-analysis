@@ -1,4 +1,4 @@
-# Financial Analysis - Investment Portfolio Management
+Financial Analysis - Investment Portfolio Management
 
 A production-ready Next.js 14.3 application for managing investment portfolios with support for stocks, gold, and savings allocations.
 
@@ -236,6 +236,8 @@ pnpm lint
 - Implement data backup and recovery strategies
 
 
-#   m e g a - p r o j e c t  
- #   m e g a - p r o j e c t  
+#   m e g a - p r o j e c t 
+ 
+ #   m e g a - p r o j e c t 
+ 
  
